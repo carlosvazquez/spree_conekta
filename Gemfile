@@ -20,7 +20,7 @@ group :test, :development do
   gem 'vcr'
 end
 group :test do
-  gem 'ffaker'
+  #gem 'ffaker'
 end
 
 
